@@ -1,1 +1,1 @@
-# Hierarchical-Progressive-Cross-modal-Information-Interaction-for-BRATS
+# Hierarchical Progressive Cross-modal Information Interaction for BRATS
